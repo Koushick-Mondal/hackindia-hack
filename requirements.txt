@@ -1,0 +1,11 @@
+# Core Backend Dependencies
+fastapi==0.110.0
+uvicorn==0.29.0
+pydantic==2.6.4
+groq==0.4.2
+python-dotenv==1.0.1
+
+# Additional production dependencies
+gunicorn==21.2.0
+python-multipart==0.0.6
+cors==1.0.1
